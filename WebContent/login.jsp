@@ -10,7 +10,7 @@
      	String mysJDBCDriver = "com.mysql.jdbc.Driver"; 
 		String mysURL = "jdbc:mysql://sbcstldb.cs.stonybrook.edu:3306/pninan"; 
 		String mysUserID = "pninan"; 
-		String mysPassword = "106977622";
+		String mysPassword = "1069707622";
     	
 	session.putValue("login","");
 	if ((username!=null) &&(userpasswd!=null))
